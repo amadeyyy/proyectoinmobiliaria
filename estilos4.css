@@ -1,0 +1,344 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(OIP.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    position: relative;
+}
+nav p a{
+    color: rgb(228, 222, 222);
+    text-decoration: none;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+#contactar{
+    margin-left: 1150px;
+    margin-top: -100px;
+}
+#tyc{
+    margin-left: 1050px;
+    margin-top: 50px;
+}
+#footerrr
+{ 
+    border:2px solid #000000; 
+    background-color:#ffffff;
+    margin: 2px;
+
+} 
+#letra1
+{ 
+    border: px solid #000000; 
+    line-height: 20px;
+    margin-top: 30px;
+    white-space: nowrap;
+} 
+#letra2
+{ 
+    border: px solid #000000; 
+    line-height: 20px;
+    margin-left: 50px;
+    margin-top: 2px;
+    
+    white-space: nowrap;
+    margin-left: 30px;
+}
+#logo3
+{ 
+    border: px solid #000000; 
+    background-image: url(logo3.jpg);
+    padding: 2px;
+    background-repeat: no-repeat;
+    background-size: 28px;
+    margin-left: 40px;
+    margin-top: 25px;
+    
+} 
+#linea
+{ 
+    border:1px solid#694400;
+    margin: 222px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+} 
+#fondo
+{ 
+    border: 2px solid#694400;
+    padding: 100px;
+    background-image: url(fondo.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+} 
+#navvv
+{ 
+    border:px solid#694400;
+    margin: 160px;
+    margin-bottom: 2px;
+    margin-top: 11px;
+    height: 22px;
+} 
+#tabla
+{ 
+    display: flex;
+    border: 1px solid #000000; 
+    color:rgb(0, 0, 0);
+    align-items: center;
+    padding-left: 22px;
+    margin: 2px;
+    font-size: 20px;
+    
+}
+#cuadro
+{ 
+    border: 1px solid #000000; 
+    color:rgb(0, 0, 0);
+ 
+    padding-left: px;
+    margin: 2px;
+    font-size: 20px;
+    
+}
+#departamento1
+{ 
+        border: 2px solid #000000; 
+        background-image: url(departamento1.jpg);
+        padding: 70px;
+        height: 90px;
+        width: 90px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 8px;
+        margin-left: 380px;
+}
+#departamento2
+{ 
+        border: 2px solid #000000; 
+        background-image: url(departamento2.jpg);
+        padding: 70px;
+        height: 90px;
+        width: 90px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 8px;
+        margin-left: 380px;
+}
+#departamento3
+{ 
+        border: 2px solid #000000; 
+        background-image: url(departamento3.jpg);
+        padding: 70px;
+        height: 90px;
+        width: 90px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 8px;
+        margin-left: 380px;
+}
+#depa1
+{
+    border: 2px solid #000000;
+    height: 220px;
+    width: 300px;
+    margin-top: -66px;
+    margin-left: 220px;
+    font-size: 20px;
+    
+}
+#textotipo
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: -183px;
+    margin-left: 240px;
+
+}
+#textoubicacion
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: -40px;
+    margin-left: 380px;
+}
+#textodormitorio
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: 35px;
+    margin-left: 240px;
+}
+#textobaño
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: 37px;
+    margin-left: 240px;
+}
+#textoantiguedad
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: -100px;
+    margin-left: 380px;
+}
+#textosuperficie
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: 35px;
+    margin-left: 380px;
+}
+#depa2
+{
+    border: 2px solid #000000;
+    height: 220px;
+    width: 300px;
+    margin-top: -66px;
+    margin-left: 220px;
+    font-size: 20px;   
+}
+#depa3
+{
+    border: 2px solid #000000;
+    height: 220px;
+    width: 300px;
+    margin-top: -66px;
+    margin-left: 220px;
+    font-size: 20px;   
+}
+
+#textotipoa
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: -183px;
+    margin-left: 240px;
+
+}
+#textoubicaciona
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: -40px;
+    margin-left: 380px;
+}
+#textodormitorioa
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: 35px;
+    margin-left: 240px;
+}
+#textobañoa
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: 37px;
+    margin-left: 240px;
+}
+#textoantiguedada
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: -100px;
+    margin-left: 380px;
+}
+#textosuperficiea
+{
+    border: 2px solid #000000;
+    height: 20px;
+    width: 125px;
+    margin-top: 35px;
+    margin-left: 380px;
+}
+#depa1abajo
+{
+    margin-top: 20px;
+}
+#depa2abajo
+{
+    margin-top: 20px;
+}
+#depa3abajo
+{
+    margin-top: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+nav div a{
+    color: rgb(228, 222, 222);
+    text-decoration: none;
+}
+#ig{
+    margin-bottom: -30px;
+    margin-left: 87%;
+    position: absolute;
+}
+#num{
+    margin-left: 2%;
+    margin-bottom: -40px;
+    position: absolute;
+}
+#gmail1{
+    margin-bottom: 100px;
+    margin-left: 40%;
+    position: absolute
+}
+#form{
+    margin-bottom: 50px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgba(255, 255, 255, 0.5)
+}
+#depa{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#todo{
+    margin-left: -300px;
+
+}
+#pat{
+    font-family: Montserrat;
+}
+#logo{
+    position: absolute;
+    margin-top: -1100px;
+    margin-left: 828px;
+    height: 1px;
+    width: 1px;
+}

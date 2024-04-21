@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    position: relative;
+}
+#contactar{
+    margin-left: 1150px;
+    margin-top: -100px;
+}
+#tyc{
+    margin-left: 1050px;
+    margin-top: 50px;
+}
+nav p a{
+    color: rgb(228, 222, 222);
+    text-decoration: none;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+#slogan{
+    margin-left: 30%;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+section {
+    padding: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#casa{
+    background-image: url(casa2.jpg);
+    background-size: cover;
+}
+#ig{
+    margin-bottom: -30px;
+    margin-left: 87%;
+    position: absolute;
+}
+#num{
+    margin-left: 2%;
+    margin-bottom: -40px;
+    position: absolute;
+}
+#gmail1{
+    margin-bottom: 100px;
+    margin-left: 40%;
+    position: absolute
+}
+#slogan{
+    font-family: mMontserrat;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+    margin-left: 255px;
+    margin-top: -40px;
+}
+form{
+    background-color: white;
+    margin-bottom: 52px;
+    padding: 1px;
+    border-radius: 5px;
+    margin-right: 885px;
+    background-color: rgb(255, 255, 255,0.5)
+}
+#logo{
+    margin-left: 840px;
+    margin-top: -620px;
+    position: absolute;
+}
