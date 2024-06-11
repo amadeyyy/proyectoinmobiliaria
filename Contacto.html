@@ -34,15 +34,35 @@
                 <label>Teléfono:</label>
                 <input type="tel" id="telefono" name="holaaa">
 
+                <label>direccion</label>
+                <input type="ubi" id="ubi" name="holaaa">
+
+
                 <label>¿en que nesecita ayuda?:</label>
                 <textarea id="descripcion" rows="4"></textarea>
-                
+
                 <button type="submit">Enviar</button>
             </form>
         </section>
+        <div id="success-message" class="success-message">
+            ¡Tu formulario se ha enviado con éxito!
+        </div>
+        
+          <script>
+            const form = document.getElementById('vender-propiedad');
+            const successMessage = document.getElementById('success-message');
+        
+            form.addEventListener('submit', function(event) {
+              event.preventDefault();
+              form.style.opacity = '0';
+              setTimeout(function() {
+                form.style.display = 'none';
+                successMessage.style.display = 'block';
+              }, 500);
+            });
+          </script>
     </main>
     <div id="leg"><img src="logop.png"></a></div>
-    
 </body>
 </html>
 <footer>

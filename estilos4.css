@@ -342,3 +342,35 @@ nav div a{
     height: 1px;
     width: 1px;
 }
+#boton-comprar 
+{
+    background-color: #2b2b2b;
+    color: #ffffff;
+    padding: 100px 20px;
+    border-radius: rgb(255, 255, 255) 5px;
+    margin-left: 1000px;
+    margin-right: 10px;
+    padding-right: 20px;
+    position: absolute;
+}
+#boton-comprar2 
+{
+    background-color: #2b2b2b;
+    color: #ffffff;
+    padding: 100px 20px;
+    border-radius: rgb(255, 255, 255) 5px;
+    margin-left: 1000px;
+    margin-top: 240px;
+    position: absolute
+}
+
+#boton-comprar3 
+{
+    background-color: #2b2b2b;
+    color: #ffffff;
+    padding: 100px 20px;
+    border-radius: rgb(255, 255, 255) 5px;
+    margin-left: 1000px;
+    margin-top: 490px;
+    position: absolute
+}
